@@ -9,7 +9,7 @@ deployment link: https://khiaotic.github.io/KHIsScheduleManager/
 
 ## Usage
 On the top of the page, current day and date is displayed.
-This workday calendar display 24 hours of a work day.
+This workday calendar display 24 hours of a work day (incase individuals  work  1st, 2nd, or 3rd shift or have multiple jobs).
 Each time block is color coded to indicate whether it occurs in the past(light grey), present(strawberry), or future(dragon green).
 Each time block has an input field and save button where users can store their schedule.
 Must save for description to  be saved in local storage.
