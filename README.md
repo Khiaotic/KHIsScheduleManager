@@ -16,3 +16,5 @@ Must save for description to  be saved in local storage.
 This calendar is both desktop and mobile compatible.
 
 ##Mock-Up
+![khischeduler_1](https://user-images.githubusercontent.com/112679225/196562761-16e5425d-c293-46ba-918d-bf027a59f8ef.jpg)
+![khischeduler_2](https://user-images.githubusercontent.com/112679225/196562773-1743efd8-d4e3-429c-afbc-be283fb58df3.jpg)
