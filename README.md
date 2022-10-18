@@ -2,7 +2,7 @@
 
 git hub link: https://github.com/Khiaotic/KHIsScheduleManager
 
-deployment link: 
+deployment link: https://khiaotic.github.io/KHIsScheduleManager/
 
 
 
